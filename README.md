@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=697A21&height=120&section=header" alt="header"/> 
 
-<p align="center">
+<p align="left">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=697A21&width=435&lines=Hello%2C+it's+Bakhytzhan;Backend+Developer" alt="Backend Developer"/>
     </a>
 </p>
 
-<div align="center">
+<div align="left">
     <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
@@ -20,11 +20,11 @@
 ---
 
 ### ⚙️ **Main Skills**
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,github,docker,mongodb,js,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,mongodb,redis,git,github,python,django,postman&theme=light)](https://skillicons.dev)
 
 ### 📚 **Currently Learning**
-[![Learning](https://skillicons.dev/icons?i=aws,go,ruby)](https://skillicons.dev)
-
+[![Learning](https://skillicons.dev/icons?i=go,js,nodejs,react&theme=light)](https://skillicons.dev)
+    
 
 ### 🌍 **Connect with Me!**
 <p align="left">
@@ -37,13 +37,16 @@
     <a href="https://github.com/bakhytzhanjzz" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
+    <a href="https://t.me/bakhtzhn" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
 </p>
 
 ---
 
 ### 📝 **For Employers**
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume - CV Bakhytzhan</a>
 
 ---
 
