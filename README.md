@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=800&color=8FA829&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Engineer;Clean+Architecture+Enthusiast;Building+Juzzt+%E2%80%94+a+vinyl+store+API;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=800&color=8FA829&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Developer;Building+backends+that+scale;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,67 +16,21 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
 ### `$ whoami`
 
 ```yaml
 name:     Bakhytzhan Abdilmazhit
-role:     Backend Developer
-focus:
-  - Java & Spring Boot ecosystems
-  - Clean, scalable architecture
-  - Security & performance tuning
+role:     Junior Backend Developer
 
-current_project:
-  name:   Juzzt
-  stack:  Spring Boot · PostgreSQL · Redis
-  about:  Online jazz vinyl store API
+stack:
+  languages:   Java, Python, Go (learning)
+  frameworks:  Spring Boot, Django
+  databases:   PostgreSQL, MongoDB, Redis
+  tools:       Docker, Git, Postman, Linux
 
 location: Kazakhstan 🇰🇿
-open_to:  Internships & Junior roles
+open_to:  Junior backend roles
 ```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bakhytzhanjzz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8FA829&icon_color=8FA829&text_color=c9d1d9&ring_color=697A21" width="100%" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com?user=bakhytzhanjzz&theme=github-dark-blue&hide_border=true&background=0d1117&ring=8FA829&fire=697A21&currStreakLabel=8FA829" width="100%" alt="GitHub Streak"/>
-
-</td>
-</tr>
-</table>
-
----
-
-### ⚙️ Tech Stack
-
-**Core**
-
-[![Core Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,redis,mongodb&theme=dark)](https://skillicons.dev)
-
-**Tooling & Dev**
-
-[![Tooling](https://skillicons.dev/icons?i=git,github,postman,linux,idea&theme=dark)](https://skillicons.dev)
-
-**Expanding Into**
-
-[![Learning](https://skillicons.dev/icons?i=go,js,nodejs,react,python,django&theme=dark)](https://skillicons.dev)
-
----
-
-### 🚀 Featured Project
-
-<a href="https://github.com/bakhytzhanjzz">
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bakhytzhanjzz&repo=Juzzt&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8FA829&icon_color=8FA829&text_color=c9d1d9" alt="Juzzt"/>
-</a>
-
-<br clear="left"/>
-
-> **Juzzt** — A Spring Boot REST API for browsing and ordering jazz vinyl records. Built with clean layered architecture, JWT auth, PostgreSQL, Redis caching, and Docker-compose deployment.
 
 ---
 
@@ -107,8 +61,6 @@ open_to:  Internships & Junior roles
 
 ### 📄 Resume
 
-> **Open to internship and junior backend roles.**
-> 
 > 📎 [**Download CV — Bakhytzhan Abdilmazhit**](https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing)
 
 ---
